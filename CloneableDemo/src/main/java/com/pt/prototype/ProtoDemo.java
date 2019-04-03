@@ -46,6 +46,7 @@ public class ProtoDemo implements Cloneable {
 		//to avoid this class ObjNotimplementsCloneable should implements cloneable
 		//then the state of ObjNotimplementsCloneable will not change if any modifications 
 		//done on clone object
+		//changes in git repo
 		System.out.println(notsupport);
 		System.out.println(pr.state);
 		
